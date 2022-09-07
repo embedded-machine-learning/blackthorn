@@ -1,0 +1,7 @@
+
+.vscode/
+*.pyc
+__pycache__/
+
+# Scripts for testing purpose
+/sc_*
